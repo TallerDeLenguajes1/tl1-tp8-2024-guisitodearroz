@@ -4,6 +4,7 @@ List<Tarea> ListaTarea= new List<Tarea>;
 List<Tarea> ListaTareaRealizadas= new List<Tarea>;
 int option=0;
 int opcion=0;
+//comentario para cargar
 do
 {
     Console.WriteLine("\n---------------Elija una opcion---------------\n");
@@ -29,7 +30,7 @@ do
             switch (opcion1)
             {
                 case 1:
-                
+
                 break;    
                 default:
             }
